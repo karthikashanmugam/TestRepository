@@ -9,9 +9,8 @@ namespace SourceTreeIntroConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to SourceTree!");
-
             // Keep the console window open in debug mode.
+            Console.WriteLine("Welcome to SourceTree!");
             Console.WriteLine("Press any key to exit.");
             Console.ReadKey();
         }
